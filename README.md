@@ -80,7 +80,7 @@ A beautiful, responsive website showcasing the four major professional sports le
 
 ## Author
 
-Created as an educational project about American sports.
+Derrick Peoples
 
 ---
 
